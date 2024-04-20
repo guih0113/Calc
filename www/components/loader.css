@@ -1,0 +1,26 @@
+main{
+    border: 1px solid;
+    box-shadow: 7px 7px 7px 7px darkgray;
+    height: 350px;
+}
+
+.box{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+label{
+    margin-right: 8px;
+} 
+
+input[type="submit"]{
+    margin: 10px 0 10px 10px;
+}
+
